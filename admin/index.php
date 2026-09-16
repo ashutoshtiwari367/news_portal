@@ -165,7 +165,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
             <div class="login-demo-hint">
                 <i class="fa-solid fa-circle-info"></i>
-                Demo: <strong>admin@news.com</strong> / <strong>password</strong>
+                Demo: <strong>admin@newsportal.com  </strong> / <strong>password</strong>
             </div>
 
         </div>
