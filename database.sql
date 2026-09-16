@@ -4,11 +4,11 @@
 --  Run this file in phpMyAdmin or MySQL CLI
 -- ============================================================
 
-CREATE DATABASE IF NOT EXISTS `news_portal`
-    CHARACTER SET utf8mb4
-    COLLATE utf8mb4_unicode_ci;
+-- CREATE DATABASE IF NOT EXISTS `u447123054_news_portal`
+--     CHARACTER SET utf8mb4
+--     COLLATE utf8mb4_unicode_ci;
 
-USE `news_portal`;
+-- USE `u447123054_news_portal`;
 
 -- ============================================================
 -- TABLE: admins
